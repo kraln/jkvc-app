@@ -1,0 +1,27 @@
+$ff-sans-bold: 'IBMPlexSans-Bold', sans-serif, regular;
+$ff-sans-regular: 'IBMPlexSans-Regular', sans-serif, regular;
+
+$ff-sans-condensed-bold: 'IBMPlexSansCondensed-Bold', sans-serif, regular;
+$ff-sans-condensed-regular: 'IBMPlexSansCondensed-Regular', sans-serif, regular;
+
+$ff-mono-light: 'IBMPlexMono-Light', monospace, regular;
+$ff-mono-regular: 'IBMPlexMono-Regular', monospace, regular;
+
+
+$fw-light: 300;
+$fw-normal: 400;
+$fw-bold: 900;
+
+$remsize: (
+    1: 3rem, // 5rem FALSE
+    2: 1.875rem, // 3.75rem
+    3: 1.5rem, // 3rem
+    4: 1.3125rem, // 2.625rem
+    5: 1.125rem, // 2.25rem
+    6: 1.0625rem, // 2.125rem
+    7: 1rem,// 2rem
+    8: 0.9rem, //???
+    9: 0.875rem,// 1.75rem
+);
+
+

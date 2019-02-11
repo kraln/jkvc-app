@@ -1,0 +1,15 @@
+@import 'abstracts/functions';
+@import 'abstracts/colors';
+@import 'abstracts/typography';
+@import 'abstracts/mixins';
+@import 'abstracts/general';
+
+@import 'base/typography';
+
+@import 'layout/general';
+
+
+//sass --watch scss:css
+
+// Browser Sync: Proxy mode at side panel
+// http://localhost:8080
